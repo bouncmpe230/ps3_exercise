@@ -6,9 +6,6 @@ int main(){
  long long c;
  long double d;
 
-
- 
-
  printf("size of short = %lu bytes\n", sizeof(a));
  printf("size of long = %lu bytes\n", sizeof(b));
  printf("size of long long = %lu bytes\n", sizeof(c));
